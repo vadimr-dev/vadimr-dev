@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @vadimr-dev
-- 👀 I’m interested in world of programming
-- 🌱 I’m currently learning Python, C#
+- 🧠 I want the world to become smarter and faster. I need robots to take over the world😁
+- 👨‍💻 I’m currently learning Python, C#
 - 📫 My email vadimr.dev@gmail.com
