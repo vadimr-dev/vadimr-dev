@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vadimr-dev
+- 👀 I’m interested in world of programming
+- 🌱 I’m currently learning Python, C#
+- 📫 My email vadimr.dev@gmail.com
